@@ -1,0 +1,9 @@
+const Home=()=>{
+    return(
+        <>
+        <h1>THIS IS REACT ROUTER ROUTE Home Page</h1><hr></hr>
+        <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa quia ratione ut minima voluptas hic perspiciatis aperiam aspernatur veritatis ea consequuntur, laboriosam consectetur explicabo rem accusantium. At repellendus, blanditiis porro ex doloremque magni inventore quisquam amet tempore adipisci doloribus dolorem, molestias reprehenderit officiis incidunt! Pariatur dolores, quaerat officia reprehenderit accusantium eveniet id? Cum error aliquid aut voluptate ducimus quos velit dolorum, dignissimos nesciunt voluptatibus et ipsam soluta. Iure, repellendus repellat commodi autem incidunt animi. Excepturi cumque suscipit sapiente magni, dolore perferendis, sed repudiandae, labore eaque laborum nulla nobis iure sequi ratione possimus cupiditate eligendi minus voluptates enim assumenda. Sit tenetur, eum asperiores corrupti placeat unde quidem quibusdam magnam pariatur iste nam aliquid iusto! Excepturi corporis nostrum impedit provident, asperiores rerum accusantium ullam. Porro recusandae harum neque provident dicta, magni temporibus hic laudantium incidunt itaque ipsa nam. Quam at consequuntur consequatur perferendis placeat impedit amet voluptas repellat molestias quidem quod, soluta doloribus temporibus deserunt vel libero iste consectetur sit et quibusdam quia vitae! Officiis dignissimos totam inventore delectus magni repudiandae dolore suscipit esse, tenetur ad vel quaerat minus, quos cupiditate natus eveniet! Nulla, blanditiis ratione possimus tempora consectetur ducimus quo eveniet dolorem earum maiores, amet unde ipsum recusandae quibusdam, similique molestias?</h3>
+        </>
+    )
+} 
+export default Home
