@@ -1,4 +1,6 @@
 import { useState } from 'react'
+import Button from './button'
+import Ternary from './Ternary'
 
 function App(){
   let [count,setCounter]=useState(0)
@@ -19,6 +21,9 @@ function App(){
   
     <button onClick={add}>Updated</button>
     <button onClick={minus}>Decriment</button>
+
+    <Button />
+    <Ternary/>
     </>
   )
 }

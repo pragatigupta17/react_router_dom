@@ -1,21 +1,20 @@
+// import Button from 'Button.jsx'
 import { useState } from 'react'
-function App(){
-    let [count,setCounter]=useState(red)
-    function Change(){
-      setCounter(yellow)
+function Button(){
+    let [col,setCol]=useState('lightpink')
+    function peach(){
+      setCol('peach')
     }
  
-const Button=()=>{
+
     return(
         <>
         <h1>THIS IS USESTATE BUTTON COLOR CHANGE</h1><hr></hr>
-        <div>
-<button onClick={Red}>Change</button>
-<button onClick={blue}>Change</button>
-<button onClick={green}>Change</button>
-<button onClick={yellow}>Change</button>
+        <div style={{height:"100vh",width:"100vw",backgroundColor:col}}>
+        <button onClick={peach}>peach</button>
         </div>
         </>
     )
-} 
+
+}
 export default Button
