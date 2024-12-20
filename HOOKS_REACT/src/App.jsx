@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import Button from './button'
 import Ternary from './Ternary'
+import Hide from './Hide'
 
 function App(){
   let [count,setCounter]=useState(0)
@@ -24,6 +25,7 @@ function App(){
 
     <Button />
     <Ternary/>
+    <Hide/>
     </>
   )
 }
