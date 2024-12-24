@@ -6,7 +6,7 @@ import Hide from './Hide'
 function App(){
   let [count,setCounter]=useState(0)
   function add(){
-    setCounter(count+1)
+    setCounter(count+2)
   }
 
   function minus(){

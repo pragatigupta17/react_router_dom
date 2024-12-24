@@ -4,12 +4,7 @@ function Hide(){
     return (
         <>
             <button onClick={() => setShow(true)}>UPDATE</button>
-            
-    
-        
-        
-        
-        <button onClick={() => setShow(!show)}>hide</button>
+             <button onClick={() => setShow(!show)}>HIDE</button>
         {(show) ? <h1>SUCCESS</h1>:""}
             {/* /* {(show)?"hide":"display"}*/} 
         </>
