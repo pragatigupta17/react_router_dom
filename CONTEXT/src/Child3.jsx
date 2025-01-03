@@ -1,18 +1,11 @@
 import React from 'react'
-import {cdata} from './App'
-const Child3=()=>{
+import Child4  from './Child4'
+const Child3 =()=>{
     return(
-<>
-<cdata.Consumer>
-            {
-                (data)=>{
-                    return(
-                        <h1> HAPPY {data} 2025</h1>
-                    )
-                }
-            }
-        </cdata.Consumer>
-</>
+        <div>Child3
+            <Child4 />
+
+        </div>
     )
 }
 export default Child3
