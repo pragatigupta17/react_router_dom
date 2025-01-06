@@ -3,9 +3,10 @@ import Child4 from "./Child4";
 const Child5=()=>{
     return(
         <>
-        <c
+    
         </>
     )
 
 
 }
+export default Child5
