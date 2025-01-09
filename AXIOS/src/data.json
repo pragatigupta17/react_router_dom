@@ -1,0 +1,39 @@
+{
+  "student": [
+    {
+      "name": "pragati",
+      "age": 25,
+      "contact": 123,
+      "city": "farrukhabad",
+      "id": "b519"
+    },
+    {
+      "name": "prabha",
+      "age": 12,
+      "contact": 123456,
+      "city": "kamalganj",
+      "id": "c488"
+    },
+    {
+      "name": "navya",
+      "age": 10,
+      "contact": 12345689,
+      "city": "fatehghar",
+      "id": "fdc2"
+    },
+    {
+      "name": "shivay",
+      "age": 7,
+      "contact": 1234567890,
+      "city": "kamalganj",
+      "id": "b4fc"
+    },
+    {
+      "name": "geet",
+      "age": 12,
+      "contact": 12345612,
+      "city": "kamalganj",
+      "id": "ff44"
+    }
+  ]
+}
